@@ -1,18 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <sitemap>
-    <loc>http://will-reed.github.io/en/sitemap.xml</loc>
-    
-      <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-    
-  </sitemap>
+  <url>
+    <loc>http://will-reed.github.io/web/</loc>
+    <lastmod>2016-12-30T21:49:57-07:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>http://will-reed.github.io/pt-br/sitemap.xml</loc>
-    
-      <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-    
-  </sitemap>
+  <url>
+    <loc>http://will-reed.github.io/web/2016/12/30/a-plain-markdown-post/</loc>
+    <lastmod>2016-12-30T21:49:57-07:00</lastmod>
+  </url>
   
-</sitemapindex>
+  <url>
+    <loc>http://will-reed.github.io/web/post/</loc>
+    <lastmod>2016-12-30T21:49:57-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://will-reed.github.io/web/about/</loc>
+    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://will-reed.github.io/web/2015/01/01/lorem-ipsum/</loc>
+    <lastmod>2015-01-01T13:09:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://will-reed.github.io/web/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://will-reed.github.io/web/tags/</loc>
+  </url>
+  
+</urlset>
