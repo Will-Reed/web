@@ -3,168 +3,168 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/pt-br/authors/</loc>
+    <loc>http://will-reed.github.io/pt-br/authors/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/authors/"
+                href="http://will-reed.github.io/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/authors/"
+                href="http://will-reed.github.io/pt-br/authors/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/categories/blog/</loc>
+    <loc>http://will-reed.github.io/pt-br/categories/blog/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/categories/</loc>
+    <loc>http://will-reed.github.io/pt-br/categories/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="http://will-reed.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/categories/"
+                href="http://will-reed.github.io/pt-br/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/posts/dummy/</loc>
+    <loc>http://will-reed.github.io/pt-br/posts/dummy/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/tags/hugo/</loc>
+    <loc>http://will-reed.github.io/pt-br/tags/hugo/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/hugo/"
+                href="http://will-reed.github.io/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/hugo/"
+                href="http://will-reed.github.io/pt-br/tags/hugo/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/tags/i18n/</loc>
+    <loc>http://will-reed.github.io/pt-br/tags/i18n/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/</loc>
+    <loc>http://will-reed.github.io/pt-br/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/"
+                href="http://will-reed.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/"
+                href="http://will-reed.github.io/pt-br/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/posts/</loc>
+    <loc>http://will-reed.github.io/pt-br/posts/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/"
+                href="http://will-reed.github.io/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/"
+                href="http://will-reed.github.io/pt-br/posts/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/tags/</loc>
+    <loc>http://will-reed.github.io/pt-br/tags/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
+                href="http://will-reed.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/"
+                href="http://will-reed.github.io/pt-br/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/authors/translation-test/</loc>
+    <loc>http://will-reed.github.io/pt-br/authors/translation-test/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/contact/</loc>
+    <loc>http://will-reed.github.io/pt-br/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/contact/"
+                href="http://will-reed.github.io/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/contact/"
+                href="http://will-reed.github.io/pt-br/contact/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/projects/</loc>
+    <loc>http://will-reed.github.io/pt-br/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/projects/"
+                href="http://will-reed.github.io/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/projects/"
+                href="http://will-reed.github.io/pt-br/projects/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/series/</loc>
+    <loc>http://will-reed.github.io/pt-br/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/series/"
+                href="http://will-reed.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/series/"
+                href="http://will-reed.github.io/pt-br/series/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/about/</loc>
+    <loc>http://will-reed.github.io/pt-br/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/about/"
+                href="http://will-reed.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/about/"
+                href="http://will-reed.github.io/pt-br/about/"
                 />
   </url>
   
